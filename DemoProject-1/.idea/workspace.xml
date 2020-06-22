@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ed5c416-3e27-469d-a547-a9808c33f5fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Xipt42WpVEWsNqDpyiaX7FwZXU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic" />
+      <recent name="com.simulations.gatling" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CMHC\01.Learning\00.Gatling\MyGatlingProjects\DemoProject-1\src\test\resources\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Engine">
+    <configuration name="DemoClass" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaScripts.DemoClass" />
+      <module name="DemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalaScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Engine" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Engine" />
+      <module name="DemoProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateToken" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.simulations.gatling.GenerateToken" />
+      <module name="DemoProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalaScripts.HelloWorld" />
+      <module name="DemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalaScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Engine" />
+        <item itemvalue="Application.GenerateToken" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.DemoClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ed5c416-3e27-469d-a547-a9808c33f5fe" name="Default Changelist" comment="" />
+      <created>1581538980667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581538980667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="143" key="#Project_Structure" timestamp="1586966127590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="143" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586966127590" />
+    <state x="504" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591722862090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1591722862090" />
+    <state x="550" y="134" key="FileChooserDialogImpl" timestamp="1586452632427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="134" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586452632427" />
+    <state width="1493" height="312" key="GridCell.Tab.0.bottom" timestamp="1591736974697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591736974697" />
+    <state width="1493" height="312" key="GridCell.Tab.0.center" timestamp="1591736974696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591736974696" />
+    <state width="1493" height="312" key="GridCell.Tab.0.left" timestamp="1591736974696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591736974696" />
+    <state width="1493" height="312" key="GridCell.Tab.0.right" timestamp="1591736974696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591736974696" />
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1592857398204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592857398204" />
+    <state x="578" y="383" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586965282804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="383" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1586965282804" />
+    <state x="534" y="278" key="git4idea.rebase.GitRebaseDialog" timestamp="1592857724310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="278" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1592857724310" />
+  </component>
+</project>
